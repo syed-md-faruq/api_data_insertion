@@ -1,1 +1,1 @@
-Getting data from an api and then inserting it into a database
+Getting data from a third party api and then inserting it into a database
